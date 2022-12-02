@@ -1,0 +1,8 @@
+/*.index {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*}*/
+
+.intro, .contact, .message {
+    background-color: blue;
+}
